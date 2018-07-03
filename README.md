@@ -40,8 +40,10 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 ### Student edit:
 1_) How long it took to complete the project?
 	An Hour.
+	
 2_) One thing you liked about the project?
 	My 1st VR experience.
+	
 3_) One thing that was particularly challenging about the project?
 	Getting the VR to work, specially that I missed installing google usb driver.
 	
