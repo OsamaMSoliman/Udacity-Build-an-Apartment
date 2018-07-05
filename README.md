@@ -47,4 +47,10 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 5_) In the Rubric "Quality Settings" I didn't do them as I'm not sure how to do them :(
 
 6_) I didn't upload the APK, is that okay ?
+
+7_) I targeted ANDROID.
+
+8_) screenshots:
+![Screenshot](1.png)
+![Screenshot](2.png)
 ### 
